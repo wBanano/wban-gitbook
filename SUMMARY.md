@@ -2,8 +2,9 @@
 
 * [Initial page](README.md)
 
-## Development
+## Smart-Contracts
 
-* [Dev](development/dev.md)
-* [Staging](development/staging.md)
+* [Intro](smart-contracts/intro.md)
+* [Dev](smart-contracts/dev.md)
+* [Staging](smart-contracts/staging.md)
 
