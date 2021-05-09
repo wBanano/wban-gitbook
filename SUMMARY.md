@@ -4,5 +4,5 @@
 
 ## Development
 
-* [Staging Env](development/staging-env.md)
+* [Staging](development/staging.md)
 

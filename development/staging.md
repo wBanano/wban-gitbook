@@ -1,4 +1,4 @@
-# Staging Env
+# Staging
 
 ## Farms
 
