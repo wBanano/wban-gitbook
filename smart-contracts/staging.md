@@ -6,6 +6,12 @@ description: On BSC testnet
 
 ## Farms
 
+Benis settings:
+
+* Rewards: 1 BAN / second
+* Start time: `??`
+* Duration: 7 days
+
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
 | 0 | [wBAN-WBNB](https://testnet.bscscan.com/tx/0xc5c424ac7b0e009b5f74279895de09dc8736bc2fe341e4484bd7c02bdfe4fde2) |
