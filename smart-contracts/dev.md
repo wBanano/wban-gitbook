@@ -26,7 +26,7 @@ Benis settings:
 | WBNB | [0x9AD54a3ca0df6E96c949c0Ae8B03faD04703024e](https://testnet.bscscan.com/address/0x9AD54a3ca0df6E96c949c0Ae8B03faD04703024e#code) |
 | ApeFactory | [0xc19002b57BfB3c56486ed05eC305B90EB692fde2](https://testnet.bscscan.com/address/0xc19002b57BfB3c56486ed05eC305B90EB692fde2#code) |
 | ApePair wBAN-WBNB | [0xE0423Ed740c40a3dA48d9E64819a9D8a84B00880](https://testnet.bscscan.com/address/0xe0423ed740c40a3da48d9e64819a9d8a84b00880#code) |
-| SushiSwap wBAN-WBNB | 0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 |
+| SushiSwap wBAN-WBNB | 0x9f2e9a6693e33461caf6a2dfd521188d2d317a59 |
 
 
 
