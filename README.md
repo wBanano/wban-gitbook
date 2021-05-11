@@ -2,7 +2,9 @@
 
 wBAN is a wrapped Banano token enabling Binance Smart Chain transactions.
 
-{% page-ref page="./" %}
+{% embed url="https://www.daily-peel.com/post/wban-multilingual-megathread" %}
+
+{% embed url="https://www.daily-peel.com/post/wbanfaq" %}
 
 Here is a screencast of wBAN in action:
 
