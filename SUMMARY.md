@@ -2,6 +2,11 @@
 
 * [wBAN](README.md)
 
+## Introduction
+
+* [Quick Tour](introduction/quick-tour.md)
+* [Learn DeFi](introduction/learn-defi.md)
+
 ## Testing
 
 * [Intro](testing/intro.md)
