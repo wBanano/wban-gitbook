@@ -5,8 +5,11 @@
 ### BNB and WBNB
 
 Get yourself some [BNB from BSC testnet faucet](https://testnet.binance.org/faucet-smarthttps://testnet.binance.org/faucet-smart).  
-As the pair is going to be based on WBNB and **NOT** BNB, you need to [wrap some of your BNB as WBNB](https://app.sushi.com/swap?inputCurrency=bnb&outputCurrency=0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd).  
-**Don't wrap all your BNB as you need some left for transaction fees!**
+As the pair is going to be based on WBNB and **NOT** BNB, you need to [wrap some of your BNB as WBNB](https://app.sushi.com/swap?inputCurrency=bnb&outputCurrency=0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd).
+
+{% hint style="warning" %}
+Don't wrap all your BNB as you need some available for your transaction fees!
+{% endhint %}
 
 ### **Liquidity Pools**
 
