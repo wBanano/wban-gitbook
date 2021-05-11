@@ -1,6 +1,6 @@
 # wBAN
 
-wBAN is a wrapped Banano token enabling Binance Smart Chain transactions.
+wBAN is a wrapped Banano token enabling Binance Smart Chain transactions and DeFi.
 
 {% embed url="https://www.daily-peel.com/post/wban-multilingual-megathread" %}
 
