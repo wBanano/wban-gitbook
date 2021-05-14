@@ -8,7 +8,7 @@ description: On BSC testnet
 
 Benis settings:
 
-* Rewards: 1 BAN / second
+* Rewards: 0.01 BAN / second
 * Start time: `1620992612`
 * Duration: 7 days
 
