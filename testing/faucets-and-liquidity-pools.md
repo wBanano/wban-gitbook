@@ -13,5 +13,5 @@ Don't wrap all your BNB as you need some available for your transaction fees!
 
 ### **Liquidity Pools**
 
-Then, [provide some liquidity for the wBAN-WBNB pair](https://app.sushi.com/add/0x05dAc135787D2059A7a589fD3fFBCE3F676A3B8e/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd). To make this more meaningful, check out the prices of BAN and BNB on [Coingecko](https://www.coingecko.com) and try to get a 50/50 percent ratio, USD wise.
+Then, [provide some liquidity for the wBAN-WBNB pair](https://app.sushi.com/add/0xaCfBA23afa9308a58cBdF42eF5A1a759ac8C6d2e/ETH). To make this more meaningful, check out the prices of BAN and BNB on [Coingecko](https://www.coingecko.com) and try to get a 50/50 percent ratio, USD wise.
 
