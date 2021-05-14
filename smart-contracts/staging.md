@@ -22,8 +22,8 @@ Benis settings:
 
 | Name | Address |
 | :--- | :--- |
-| Benis | [0xa9BB06a3c817D97FcF9cbAF40ECEDF3D744Ce73F](https://testnet.bscscan.com/address/0xa9BB06a3c817D97FcF9cbAF40ECEDF3D744Ce73F#code) |
-| wBAN | [0x58EDaBF911597C4DE6AC95ABb462D02ef94d5c66](https://testnet.bscscan.com/address/0x58EDaBF911597C4DE6AC95ABb462D02ef94d5c66#code) |
+| Benis |  |
+| wBAN | 0x58EDaBF911597C4DE6AC95ABb462D02ef94d5c66 |
 | Fake BUSD | 0xDCe998b5BC3A41d9346C4244f64799AF0Cf15e52 |
 | SushiSwap wBAN-BNB |  |
 | SushiSwap wBAN-BUSD |  |
