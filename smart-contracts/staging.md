@@ -24,7 +24,7 @@ Benis settings:
 | :--- | :--- |
 | Benis |  |
 | wBAN | 0x58EDaBF911597C4DE6AC95ABb462D02ef94d5c66 |
-| Fake BUSD | 0xDCe998b5BC3A41d9346C4244f64799AF0Cf15e52 |
+| BUSD | 0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee |
 | SushiSwap wBAN-BNB |  |
 | SushiSwap wBAN-BUSD |  |
 

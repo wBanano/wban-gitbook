@@ -9,8 +9,8 @@ description: On BSC testnet
 Benis settings:
 
 * Rewards: 0.01 BAN / second
-* Start time: `1620992612`
-* Duration: 7 days
+* Start time: `1621015421`
+* Duration: 1 days
 
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
@@ -22,9 +22,9 @@ Benis settings:
 
 | Name | Address |
 | :--- | :--- |
-| Benis | 0x2AFC87C03cF5585BfFCF6302A3d151Cd536A7fB3 |
-| wBAN | 0xaCfBA23afa9308a58cBdF42eF5A1a759ac8C6d2e |
-| Fake BUSD | 0xDCe998b5BC3A41d9346C4244f64799AF0Cf15e52 |
-| SushiSwap wBAN-BNB | 0xE2B1E2a7Fdc7bCA44C978364fbd45C98a41e4C9b |
-| SushiSwap wBAN-BUSD | 0x44C857E54ccb7585935f4cA6C19b814Ed343b303 |
+| Benis | 0x592B99346AEd9c2961Eb0e08BaF326829849B7B1 |
+| wBAN | 0xfa979b6080583bD3Af0B5A4B9b8054bD17bEE1B7 |
+| BUSD | 0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee |
+| SushiSwap wBAN-BNB | 0x0561CCB9C6733F84307Eb9B0AdD613D974927c08 |
+| SushiSwap wBAN-BUSD | 0x5BbEA3A76c330D256AF3f60834A441C1F20b6d6b |
 
