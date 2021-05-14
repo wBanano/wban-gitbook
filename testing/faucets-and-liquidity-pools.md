@@ -2,16 +2,17 @@
 
 ## Setup
 
-### BNB and WBNB
+### BNB & BUSD
 
-Get yourself some [BNB from BSC testnet faucet](https://testnet.binance.org/faucet-smarthttps://testnet.binance.org/faucet-smart).  
-As the pair is going to be based on WBNB and **NOT** BNB, you need to [wrap some of your BNB as WBNB](https://app.sushi.com/swap?inputCurrency=bnb&outputCurrency=0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd).
+Get yourself some BNB and BUSD [from BSC testnet faucet](https://testnet.binance.org/faucet-smarthttps://testnet.binance.org/faucet-smart).
+
+### **Liquidity Pools**
+
+Then, provide some liquidity for the wBAN-BNB and wBAN-BUSD pairs.
+
+To make this more meaningful, check out the prices of BAN and BNB on [Coingecko](https://www.coingecko.com) and try to get a 50/50 percent ratio, USD wise.
 
 {% hint style="warning" %}
 Don't wrap all your BNB as you need some available for your transaction fees!
 {% endhint %}
-
-### **Liquidity Pools**
-
-Then, [provide some liquidity for the wBAN-WBNB pair](https://app.sushi.com/add/0xaCfBA23afa9308a58cBdF42eF5A1a759ac8C6d2e/ETH). To make this more meaningful, check out the prices of BAN and BNB on [Coingecko](https://www.coingecko.com) and try to get a 50/50 percent ratio, USD wise.
 
