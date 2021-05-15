@@ -8,9 +8,9 @@ description: On BSC testnet
 
 Benis settings:
 
-* Rewards: 0.01 BAN / second
+* Rewards: 0.00231481 BAN / second \(200 BAN / 24h\)
 * Start time: `1621015421`
-* Duration: 1 days
+* Duration: 1 day
 
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
