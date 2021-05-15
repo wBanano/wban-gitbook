@@ -4,7 +4,7 @@
 
 ### BNB & BUSD
 
-Get yourself some BNB and BUSD [from BSC testnet faucet](https://testnet.binance.org/faucet-smarthttps://testnet.binance.org/faucet-smart).
+Get yourself some BNB and BUSD [from BSC testnet faucet](https://testnet.binance.org/faucet-smart).
 
 ### **Liquidity Pools**
 
