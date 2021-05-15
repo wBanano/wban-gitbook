@@ -12,7 +12,3 @@ Then, provide some liquidity for the [wBAN-BNB](https://app.sushi.com/add/0x58ED
 
 To make this more meaningful, check out the prices of BAN and BNB on [Coingecko](https://www.coingecko.com) and try to get a 50/50 percent ratio, USD wise.
 
-{% hint style="warning" %}
-Don't wrap all your BNB as you need some available for your transaction fees!
-{% endhint %}
-
