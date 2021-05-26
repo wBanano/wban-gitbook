@@ -8,25 +8,23 @@ description: On BSC testnet
 
 Benis settings:
 
-* Rewards: 0.00231481 BAN / second \(200 BAN / 24h\)
-* Start time: `1621076825`
-* Duration: 1 day
+* Rewards: 0.00578704 BAN / second \(1000 BAN / 48h\)
+* Start time: `1622018290`
+* Duration: 2 days
 
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
 | 0 | wBAN staking |
-| 1 | SushiSwap wBAN-BNB |
-| 2 | SushiSwap wBAN-BUSD |
+| 1 | ApeSwap wBAN-BNB |
+| 2 | ApeSwap wBAN-BUSD |
 
 ## Smart-Contracts
 
 | Name | Address |
 | :--- | :--- |
-| Benis | 0x86d1C4B9AC34419dda44635E1F813A1bA095106d |
-| wBAN | 0x58EDaBF911597C4DE6AC95ABb462D02ef94d5c66 |
+| Benis | 0x8e955F881567c1703F2CD2E0EAD8Fdd5DB36f06A |
+| wBAN | 0x8707Dc43c5B31189C2886309352ece6865a1f9a6 |
 | BUSD | 0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee |
-| SushiSwap wBAN-BNB | 0x85cc96a70567cc3065762ee2619525bc9be3a361 |
-| SushiSwap wBAN-BUSD | 0x9baBE03EE20763D5F94dCb8687ec85115E249195 |
-
-
+| ApeSwap wBAN-BNB | 0x172a457450a908F96ea8467CA43a348222237168 |
+| ApeSwap wBAN-BUSD | 0x611266E09b734aB6233b6aF8e54dA51Db6A7eF34 |
 
