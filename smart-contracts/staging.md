@@ -9,7 +9,7 @@ description: On BSC testnet
 Benis settings:
 
 * Rewards: 0.00578704 BAN / second \(1000 BAN / 48h\)
-* Start time: `1622018290`
+* Start time: `1622150276`
 * Duration: 2 days
 
 | Pool ID \(pid\) | Pair |
@@ -22,9 +22,9 @@ Benis settings:
 
 | Name | Address |
 | :--- | :--- |
-| Benis | 0x8e955F881567c1703F2CD2E0EAD8Fdd5DB36f06A |
-| wBAN | 0x8707Dc43c5B31189C2886309352ece6865a1f9a6 |
+| Benis | 0x5501DE4089fCe613e78F60249930f0EF17eCfC4f |
+| wBAN | 0x9222D24274E912F4d5E889b460924C4fEFe97954 |
 | BUSD | 0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee |
-| ApeSwap wBAN-BNB | 0x172a457450a908F96ea8467CA43a348222237168 |
-| ApeSwap wBAN-BUSD | 0x611266E09b734aB6233b6aF8e54dA51Db6A7eF34 |
+| ApeSwap wBAN-BNB | 0xD9061825D488Fb96C49CE94320c3b1d2CAF5aeA6 |
+| ApeSwap wBAN-BUSD | 0x66E98B0271756f1DC960cbD84690C07A554f4bcc |
 
