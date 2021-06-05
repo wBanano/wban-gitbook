@@ -1,12 +1,8 @@
----
-description: On BSC testnet
----
-
 # Mainnet
 
-## Farms
+## Farms <a id="farms"></a>
 
-Benis settings:
+Benis settings:‌
 
 * Rewards: 0.62003968 BAN / second \(1.5M BAN / 28d\)
 * Start time: `1622905200`
@@ -17,7 +13,7 @@ Benis settings:
 | 1 | ApeSwap wBAN-BNB |
 | 2 | ApeSwap wBAN-BUSD |
 
-## Smart-Contracts
+## Smart-Contracts <a id="smart-contracts"></a>
 
 | Name | Address |
 | :--- | :--- |
