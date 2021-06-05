@@ -2,7 +2,7 @@
 description: On BSC testnet
 ---
 
-# Staging
+# Testnet
 
 ## Farms
 
