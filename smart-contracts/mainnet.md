@@ -7,10 +7,10 @@ Benis settings:
 * Start time: `1622905200`
 * Rewards:
 
-| Period \(time in UTC\) | Rewards for 28 days | Rewards / second |
+| Period \(time is 3PM UTC\) | Rewards for 28 days | Rewards / second |
 | :--- | :--- | :--- |
-| June 5th 3PM -&gt; July 3rd 3PM | 1.5 M BAN | 0.62003968 |
-| July 3rd 3PM -&gt; July 31 3PM | 1.125 M BAN | 0.465029762 |
+| 2021-06-05 -&gt; 2021-07-03 | 1.5 M BAN | 0.62003968 |
+| 2021-07-03 -&gt; 2021-07-31 | 1.125 M BAN | 0.465029762 |
 
 * Pools:
 
@@ -19,7 +19,7 @@ Benis settings:
     <tr>
       <th style="text-align:left">Pool ID (pid)</th>
       <th style="text-align:left">Pair</th>
-      <th style="text-align:left">Multiplier</th>
+      <th style="text-align:left">Multiplier (time is 3PM UTC)</th>
     </tr>
   </thead>
   <tbody>
@@ -27,25 +27,25 @@ Benis settings:
       <td style="text-align:left">0</td>
       <td style="text-align:left">wBAN staking</td>
       <td style="text-align:left">
-        <p>June 5th -&gt; July 3rd: 100</p>
-        <p>July 3rd -&gt; July 31: 50</p>
-        <p>July 31 -&gt; later: 0 (pool ended)</p>
+        <p>2021-06-05 -&gt; 2021-07-03: 100</p>
+        <p>2021-07-03 -&gt; 2021-07-31: 50</p>
+        <p>2021-07-31 -&gt; later: 0 (pool ended)</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">1</td>
       <td style="text-align:left">ApeSwap wBAN-BNB</td>
       <td style="text-align:left">
-        <p>June 5th -&gt; July 3rd: 1000</p>
-        <p>July 3rd -&gt; July 31: 1000</p>
+        <p>2021-06-05 -&gt; 2021-07-03: 1000</p>
+        <p>2021-07-03 -&gt; 2021-07-31: 1000</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left">ApeSwap wBAN-BUSD</td>
       <td style="text-align:left">
-        <p>June 5th -&gt; July 3rd: 1000</p>
-        <p>July 3rd -&gt; July 31: 1000</p>
+        <p>2021-06-05 -&gt; 2021-07-03: 1000</p>
+        <p>2021-07-03 -&gt; 2021-07-31: 1000</p>
       </td>
     </tr>
   </tbody>
