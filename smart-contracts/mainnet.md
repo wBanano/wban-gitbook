@@ -14,11 +14,41 @@ Benis settings:
 
 * Pools:
 
-| Pool ID \(pid\) | Pair |
-| :--- | :--- |
-| 0 | wBAN staking |
-| 1 | ApeSwap wBAN-BNB |
-| 2 | ApeSwap wBAN-BUSD |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pool ID (pid)</th>
+      <th style="text-align:left">Pair</th>
+      <th style="text-align:left">Multiplier</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">0</td>
+      <td style="text-align:left">wBAN staking</td>
+      <td style="text-align:left">
+        <p>June 5th -&gt; July 3rd: 100</p>
+        <p>July 3rd -&gt; July 31: 50</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">ApeSwap wBAN-BNB</td>
+      <td style="text-align:left">
+        <p>June 5th -&gt; July 3rd: 1000</p>
+        <p>July 3rd -&gt; July 31: 1000</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">ApeSwap wBAN-BUSD</td>
+      <td style="text-align:left">
+        <p>June 5th -&gt; July 3rd: 1000</p>
+        <p>July 3rd -&gt; July 31: 1000</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Smart-Contracts <a id="smart-contracts"></a>
 
