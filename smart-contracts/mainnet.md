@@ -2,10 +2,15 @@
 
 ## Farms <a id="farms"></a>
 
-Benis settings:‌
+Benis settings:
 
-* Rewards: 0.62003968 BAN / second \(1.5M BAN / 28d\)
 * Start time: `1622905200`
+* Rewards:
+
+| Period \(time in UTC\) | Rewards for 28 days | Rewards / second |
+| :--- | :--- | :--- |
+| June 5th 3PM -&gt; July 3rd 3PM | 1.5 M BAN | 0.62003968 |
+| July 3rd 3PM -&gt; July 31 3PM | 1.125 M BAN | 0.46502976 |
 
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
