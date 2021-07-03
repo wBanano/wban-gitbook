@@ -12,6 +12,8 @@ Benis settings:
 | June 5th 3PM -&gt; July 3rd 3PM | 1.5 M BAN | 0.62003968 |
 | July 3rd 3PM -&gt; July 31 3PM | 1.125 M BAN | 0.46502976 |
 
+* Pools:
+
 | Pool ID \(pid\) | Pair |
 | :--- | :--- |
 | 0 | wBAN staking |
