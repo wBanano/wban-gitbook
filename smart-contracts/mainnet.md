@@ -29,6 +29,7 @@ Benis settings:
       <td style="text-align:left">
         <p>June 5th -&gt; July 3rd: 100</p>
         <p>July 3rd -&gt; July 31: 50</p>
+        <p>July 31 -&gt; later: 0 (pool ended)</p>
       </td>
     </tr>
     <tr>
