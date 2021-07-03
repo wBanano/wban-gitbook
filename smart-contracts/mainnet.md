@@ -26,7 +26,7 @@ Benis settings:
     <tr>
       <td style="text-align:left">0</td>
       <td style="text-align:left">wBAN staking</td>
-      <td style="text-align:left">2021-07-31 -&gt; later: 0 (pool will be ended)
+      <td style="text-align:left">2021-07-31 -&gt; later: 0 (<b>pool will be ended</b>)
         <br />2021-07-03 -&gt; 2021-07-31: 50
         <br />2021-06-05 -&gt; 2021-07-03: 100</td>
     </tr>
