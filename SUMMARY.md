@@ -10,8 +10,8 @@
 ## Smart-Contracts
 
 * [Intro](smart-contracts/intro.md)
-* [BSC](smart-contracts/mainnet.md)
-* [Matic](smart-contracts/matic.md)
+* [Binance Smart Chain](smart-contracts/mainnet.md)
+* [Polygon](smart-contracts/matic.md)
 
 ## Testing
 

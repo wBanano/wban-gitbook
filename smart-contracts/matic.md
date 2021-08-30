@@ -1,4 +1,4 @@
-# Matic
+# Polygon
 
 ## Farms <a id="farms"></a>
 

@@ -1,4 +1,4 @@
-# BSC
+# Binance Smart Chain
 
 ## Farms <a id="farms"></a>
 
