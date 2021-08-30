@@ -23,6 +23,5 @@ Benis settings:
 | :--- | :--- |
 | Benis |  |
 | wBAN | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
-| ApeSwap wBAN-BNB |  |
-| ApeSwap wBAN-BUSD |  |
+|  |  |
 
