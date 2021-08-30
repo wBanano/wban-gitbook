@@ -1,4 +1,4 @@
-# Mainnet
+# BSC
 
 ## Farms <a id="farms"></a>
 
@@ -9,43 +9,18 @@ Benis settings:
 
 | Period \(time is 3PM UTC\) | Rewards for 28 days | Rewards / second |
 | :--- | :--- | :--- |
+| 2021-08-28 -&gt; 2021-09-25 | 375k BAN | 0.15500992 |
+| 2021-07-31 -&gt; 2021-08-28 | 750k BAN | 0.310019841 |
 | 2021-07-03 -&gt; 2021-07-31 | 1.125 M BAN | 0.465029762 |
 | 2021-06-05 -&gt; 2021-07-03 | 1.5 M BAN | 0.62003968 |
 
 * Pools:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Pool ID (pid)</th>
-      <th style="text-align:left">Pair</th>
-      <th style="text-align:left">Multiplier (time is 3PM UTC)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">0</td>
-      <td style="text-align:left">wBAN staking</td>
-      <td style="text-align:left">2021-07-31 -&gt; later: 0 (<b>pool will be ended</b>)
-        <br />2021-07-03 -&gt; 2021-07-31: 50
-        <br />2021-06-05 -&gt; 2021-07-03: 100</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left">ApeSwap wBAN-BNB</td>
-      <td style="text-align:left">
-        <p>2021-07-03 -&gt; 2021-07-31: 1000</p>
-        <p>2021-06-05 -&gt; 2021-07-03: 1000</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left">ApeSwap wBAN-BUSD</td>
-      <td style="text-align:left">2021-07-03 -&gt; 2021-07-31: 1000
-        <br />2021-06-05 -&gt; 2021-07-03: 1000</td>
-    </tr>
-  </tbody>
-</table>
+| Pool ID \(pid\) | Pair | Multiplier \(time is 3PM UTC\) |
+| :--- | :--- | :--- |
+| 0 | wBAN staking | 2021-07-31 -&gt; later: 0 \(**pool will be ended**\) 2021-07-03 -&gt; 2021-07-31: 50 2021-06-05 -&gt; 2021-07-03: 100 |
+| 1 | ApeSwap wBAN-BNB | 1000 |
+| 2 | ApeSwap wBAN-BUSD | 1000 |
 
 ## Smart-Contracts <a id="smart-contracts"></a>
 

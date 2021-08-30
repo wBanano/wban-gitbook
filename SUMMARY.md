@@ -15,6 +15,6 @@
 ## Smart-Contracts
 
 * [Intro](smart-contracts/intro.md)
-* [Mainnet](smart-contracts/mainnet.md)
-* [Testnet](smart-contracts/staging.md)
+* [BSC](smart-contracts/mainnet.md)
+* [Matic](smart-contracts/matic.md)
 
