@@ -1,3 +1,7 @@
+---
+description: 'Bridge is available at https://bsc.banano.cc'
+---
+
 # Binance Smart Chain
 
 ## Farms <a id="farms"></a>
