@@ -6,7 +6,4 @@
 
 Here is a screencast of wBAN in action:
 
-{% embed url="https://www.youtube.com/watch?v=n2k32E2a1rg" %}
-
-
-
+{% embed url="https://www.youtube.com/watch?v=Fwi931gCO48" %}
