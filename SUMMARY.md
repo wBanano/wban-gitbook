@@ -12,7 +12,7 @@
 * [Intro](smart-contracts/intro.md)
 * [Binance Smart Chain](smart-contracts/binance-smart-chain.md)
 * [Polygon](smart-contracts/polygon.md)
-* [Fantom](smart-contracts/polygon-1.md)
+* [Fantom](smart-contracts/fantom.md)
 
 ## Testing
 
