@@ -1,5 +1,5 @@
 ---
-description: Bridge is available at https://polygon.banano.cc
+description: Bridge is available at https://fantom.banano.cc
 ---
 
 # Fantom
@@ -28,5 +28,5 @@ Benis settings:
 | -------------------- | ------------------------------------------ |
 | Benis                | 0xD91f84D4E2d9f4fa508c61356A6CB81a306e5287 |
 | wBAN                 | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
-| SpookySwap wBAN-USDC |                                            |
-| SpookySwap wBAN-FTM  |                                            |
+| SpookySwap wBAN-USDC | 0x6bADcf8184a760326528b11057C00952811f77af |
+| SpookySwap wBAN-FTM  | 0x1406E49b5B0dA255307FE25cC21C675D4Ffc73e0 |
