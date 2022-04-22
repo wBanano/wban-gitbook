@@ -19,10 +19,10 @@ Benis settings:
 
 * Pools:
 
-| Pool ID (pid) | Pair      | Multiplier (time is 3PM UTC) |
-| ------------- | --------- | ---------------------------- |
-| 0             | wBAN-USDC | 1000                         |
-| 1             | wBAN-FTM  | 1000                         |
+| Pool ID (pid) | Pair      | Multiplier (time is 3PM UTC)                                  |
+| ------------- | --------- | ------------------------------------------------------------- |
+| 0             | wBAN-USDC | 1000                                                          |
+| 1             | wBAN-FTM  | <p>Launch -> 2022-04-30: 1000<br>2022-04-30 -> later: 500</p> |
 
 ## Smart-Contracts <a href="#smart-contracts" id="smart-contracts"></a>
 
