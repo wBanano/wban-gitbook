@@ -23,12 +23,12 @@ Benis settings:
 
 * Pools:
 
-| Pool ID (pid) | Pair                  | Multiplier (time is 3PM UTC)                                                                                                 |
-| ------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 0             | wBAN staking          | <p>2021-07-31 -> later: 0 (<strong>pool ended</strong>)<br>2021-07-03 -> 2021-07-31: 50<br>2021-06-05 -> 2021-07-03: 100</p> |
-| 1             | ApeSwap wBAN-BNB      | <p>2021-09-25 -> later: 0 <strong>(pool ended)</strong></p><p>2021-06-05 -> 2021-09-25: 1000</p>                             |
-| 2             | ApeSwap wBAN-BUSD     | <p>2021-09-25 -> later: 0 <strong>(pool ended)</strong></p><p>2021-06-05 -> 2021-09-25: 1000</p>                             |
-| 3             | PancakeSwap wBAN-BUSD | <p>2021-10-23 -> later: 0 <strong>(pool will end)</strong></p><p>2021-09-25 -> 2021-10-23: 1000</p>                          |
+| Pool ID (pid) | Pair                  | Multiplier (time is 3PM UTC)                                                                                                          |
+| ------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 0             | wBAN staking          | <p>2021-07-31 -> later: 0 (<strong>pool ended</strong>)<br>2021-07-03 -> 2021-07-31: 50<br>2021-06-05 -> 2021-07-03: 100</p>          |
+| 1             | ApeSwap wBAN-BNB      | <p>2021-09-25 -> later: 0 <strong>(pool ended)</strong></p><p>2021-06-05 -> 2021-09-25: 1000</p>                                      |
+| 2             | ApeSwap wBAN-BUSD     | <p>2021-09-25 -> later: 0 <strong>(pool ended)</strong></p><p>2021-06-05 -> 2021-09-25: 1000</p>                                      |
+| 3             | PancakeSwap wBAN-BUSD | <p>2022-04-07 -> later: 1000</p><p>2021-10-23 -> 2022-04-07: 0 <strong>(pool ended)</strong></p><p>2021-09-25 -> 2021-10-23: 1000</p> |
 
 ## Smart-Contracts <a href="#smart-contracts" id="smart-contracts"></a>
 
