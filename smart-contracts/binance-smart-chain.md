@@ -1,5 +1,5 @@
 ---
-description: Bridge is available at https://bsc.banano.cc
+description: Bridge is available at https://wrap.banano.cc
 ---
 
 # Binance Smart Chain

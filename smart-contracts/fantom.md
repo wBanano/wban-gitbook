@@ -1,5 +1,5 @@
 ---
-description: Bridge is available at https://fantom.banano.cc
+description: Bridge is available at https://wrap.banano.cc
 ---
 
 # Fantom
