@@ -27,6 +27,6 @@ Benis settings:
 
 | Name        | Address                                    |
 | ----------- | ------------------------------------------ |
-| Benis       |                                            |
+| Benis       | 0xD91f84D4E2d9f4fa508c61356A6CB81a306e5287 |
 | wBAN        | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
 | LP Token #0 |                                            |
