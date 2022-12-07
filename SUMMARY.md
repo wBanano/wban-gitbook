@@ -14,6 +14,7 @@
 * [Polygon](smart-contracts/polygon.md)
 * [Fantom](smart-contracts/fantom.md)
 * [Ethereum](smart-contracts/ethereum.md)
+* [Arbitrum](smart-contracts/arbitrum.md)
 
 ## Testing
 
