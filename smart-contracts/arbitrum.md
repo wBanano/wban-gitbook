@@ -27,5 +27,5 @@ Benis settings:
 | ------------------ | ------------------------------------------ |
 | Benis              | 0x8cd4DED2b49736B1a1Dbe18B9EB4BA6b6BF28227 |
 | wBAN               | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
-| wBAN Gasless Swaps | 0xD3F0642B6Db0BcD30E339E1f984c665EdE5D44B5 |
+| wBAN Gasless Swaps | 0x9FE01004850B26E17cCB39683DCFDBF51Ddeea4F |
 | SushiSwap wBAN-ETH | 0xBD80923830B1B122dcE0C446b704621458329F1D |
