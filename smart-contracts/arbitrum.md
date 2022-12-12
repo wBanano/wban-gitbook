@@ -13,7 +13,7 @@ Benis settings:
 
 | Period (time is 3PM UTC) | Rewards for 28 days | Rewards / second |
 | ------------------------ | ------------------- | ---------------- |
-| 2022-12-XX -> now        | 500k BAN            | 0.206679894      |
+| 2022-12-12 -> 2012-12-31 | 500k BAN            | 0.30677971       |
 
 * Pools:
 
