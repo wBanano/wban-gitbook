@@ -13,7 +13,7 @@ Benis settings:
 
 | Period (time is 3PM UTC)  | Rewards for 28 days | Rewards / second |
 | ------------------------- | ------------------- | ---------------- |
-| 2022-06-18 -> 2022-07-16  | 300k BAN            | 0.124007936      |
+| 2022-06-18 -> now         | 300k BAN            | 0.124007936      |
 | 2022-05-21 -> 2022-06-18  | 300k BAN            | 0.124007936      |
 | 2022-04-23 -> 2022-05-21  | 300k BAN            | 0.124007936      |
 | 2022-03-26 -> 2022-04-23  | 300k BAN            | 0.124007936      |
@@ -37,4 +37,6 @@ Benis settings:
 | ------------------- | ------------------------------------------ |
 | Benis               | 0xefa4aED9Cf41A8A0FcdA4e88EfA2F60675bAeC9F |
 | wBAN                | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
+| wBAN Gasless Swaps  | 0x35FB7b4c899B8c86533fEd40aE906A51a9702Deb |
 | SushiSwap wBAN-WETH | 0xb556feD3B348634a9A010374C406824Ae93F0CF8 |
+| WBANFarmZap         | 0x825EC74e89a4F48eDb92F3af89f29DAA0aD70CA8 |
