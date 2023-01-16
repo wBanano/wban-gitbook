@@ -13,7 +13,7 @@ Benis settings:
 
 | Period (time is 3PM UTC) | Rewards for 28 days | Rewards / second |
 | ------------------------ | ------------------- | ---------------- |
-| 2022-06-04 -> now        | 300k BAN            | 0.124007936      |
+| 2022-06-04 -> 2022-07-02 | 300k BAN            | 0.124007936      |
 | 2022-05-07 -> 2022-06-04 | 300k BAN            | 0.124007936      |
 | 2022-04-07 -> 2022-05-07 | 350k BAN            | 0.136016035      |
 | 2021-09-25 -> 2021-10-23 | 200k BAN            | 0.082671957      |
@@ -37,8 +37,6 @@ Benis settings:
 | --------------------- | ------------------------------------------ |
 | Benis                 | 0x1E30E12e82956540bf870A40FD1215fC083a3751 |
 | wBAN                  | 0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034 |
-| wBAN Gasless Swaps    | 0xFE5e24A8c4F7E18537404b9560254F47CC39a601 |
-| WBANFarmZap           | 0xB8a5aF7461FeDED80d27f562A12b2Bc27389128d |
 | ApeSwap wBAN-BNB      | 0x6011c6BAe36F2a2457dC69Dc49068a1E8Ad832DD |
 | ApeSwap wBAN-BUSD     | 0x7898466CACf92dF4a4e77a3b4d0170960E43b896 |
 | PancakeSwap wBAN-BUSD | 0x351A295AfBAB020Bc7eedcB7fd5A823c01A95Fda |
